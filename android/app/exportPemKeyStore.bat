@@ -1,0 +1,1 @@
+keytool -export -rfc -keystore keystore.jks -alias keystore -file upload_certificate.pem

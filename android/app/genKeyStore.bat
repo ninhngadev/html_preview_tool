@@ -1,0 +1,1 @@
+keytool -genkey -keystore keystore.jks -storepass keystorepassword -alias keystore -keypass keystorepassword -dname "o=html.preview.tool.xx" -keysize 2048 -keyalg RSA -validity 36500

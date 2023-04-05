@@ -1,0 +1,1 @@
+This app build using flutter framework, it requires runFullTrust capability.
